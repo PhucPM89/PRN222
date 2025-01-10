@@ -1,0 +1,15 @@
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\bin\Debug\net8.0\UDPServerApp.exe
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\bin\Debug\net8.0\UDPServerApp.deps.json
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\bin\Debug\net8.0\UDPServerApp.runtimeconfig.json
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\bin\Debug\net8.0\UDPServerApp.dll
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\bin\Debug\net8.0\UDPServerApp.pdb
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\obj\Debug\net8.0\UDPServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\obj\Debug\net8.0\UDPServerApp.AssemblyInfoInputs.cache
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\obj\Debug\net8.0\UDPServerApp.AssemblyInfo.cs
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\obj\Debug\net8.0\UDPServerApp.csproj.CoreCompileInputs.cache
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\obj\Debug\net8.0\UDPServerApp.sourcelink.json
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\obj\Debug\net8.0\UDPServerApp.dll
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\obj\Debug\net8.0\refint\UDPServerApp.dll
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\obj\Debug\net8.0\UDPServerApp.pdb
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\obj\Debug\net8.0\UDPServerApp.genruntimeconfig.cache
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\UDPServerApp\obj\Debug\net8.0\ref\UDPServerApp.dll

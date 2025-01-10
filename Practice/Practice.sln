@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerApp", "ServerApp\Serv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApp", "ClientApp\ClientApp.csproj", "{10583713-8AF9-490E-AE1D-51A7DE07CAA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPServerApp", "UDPServerApp\UDPServerApp.csproj", "{165F8330-457D-4E04-B931-91B39DD8CEE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPClientApp", "UDPClientApp\UDPClientApp.csproj", "{0B7B8D89-0FFE-4451-B62B-27701E080912}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{10583713-8AF9-490E-AE1D-51A7DE07CAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10583713-8AF9-490E-AE1D-51A7DE07CAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10583713-8AF9-490E-AE1D-51A7DE07CAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{165F8330-457D-4E04-B931-91B39DD8CEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165F8330-457D-4E04-B931-91B39DD8CEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165F8330-457D-4E04-B931-91B39DD8CEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{165F8330-457D-4E04-B931-91B39DD8CEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B7B8D89-0FFE-4451-B62B-27701E080912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7B8D89-0FFE-4451-B62B-27701E080912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7B8D89-0FFE-4451-B62B-27701E080912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7B8D89-0FFE-4451-B62B-27701E080912}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
