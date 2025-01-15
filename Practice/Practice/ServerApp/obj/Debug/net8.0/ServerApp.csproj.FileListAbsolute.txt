@@ -1,0 +1,15 @@
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\bin\Debug\net8.0\ServerApp.exe
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\bin\Debug\net8.0\ServerApp.deps.json
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\bin\Debug\net8.0\ServerApp.dll
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\bin\Debug\net8.0\ServerApp.pdb
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\obj\Debug\net8.0\ServerApp.sourcelink.json
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\obj\Debug\net8.0\ServerApp.dll
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\obj\Debug\net8.0\refint\ServerApp.dll
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\obj\Debug\net8.0\ServerApp.pdb
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+C:\Users\minhp\OneDrive\Desktop\C#\Practice\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll
