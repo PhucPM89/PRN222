@@ -1,12 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\C#\\Practice\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE4E66D-5141-4DD7-893F-175C76C21568}|FetchDataUsingHttpClient\\FetchDataUsingHttpClient.csproj|c:\\users\\minhp\\onedrive\\desktop\\prn222\\practice\\fetchdatausinghttpclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FE4E66D-5141-4DD7-893F-175C76C21568}|FetchDataUsingHttpClient\\FetchDataUsingHttpClient.csproj|solutionrelative:fetchdatausinghttpclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE4E66D-5141-4DD7-893F-175C76C21568}|FetchDataUsingHttpClient\\FetchDataUsingHttpClient.csproj|c:\\users\\minhp\\onedrive\\desktop\\prn222\\practice\\fetchdatausinghttpclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE4E66D-5141-4DD7-893F-175C76C21568}|FetchDataUsingHttpClient\\FetchDataUsingHttpClient.csproj|solutionrelative:fetchdatausinghttpclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\FetchDataUsingHttpClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FetchDataUsingHttpClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\FetchDataUsingHttpClient\\MainWindow.xaml",
+              "RelativeToolTip": "FetchDataUsingHttpClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T11:19:07.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\FetchDataUsingHttpClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FetchDataUsingHttpClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\FetchDataUsingHttpClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FetchDataUsingHttpClient\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:19:07.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

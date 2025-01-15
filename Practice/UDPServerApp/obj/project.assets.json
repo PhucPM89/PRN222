@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\minhp\\OneDrive\\Desktop\\C#\\Practice\\UDPServerApp\\UDPServerApp.csproj",
+      "projectUniqueName": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\UDPServerApp\\UDPServerApp.csproj",
       "projectName": "UDPServerApp",
-      "projectPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\C#\\Practice\\UDPServerApp\\UDPServerApp.csproj",
+      "projectPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\UDPServerApp\\UDPServerApp.csproj",
       "packagesPath": "C:\\Users\\minhp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\C#\\Practice\\UDPServerApp\\obj\\",
+      "outputPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\UDPServerApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"

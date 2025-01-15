@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\minhp\\OneDrive\\Desktop\\C#\\Practice\\ClientApp\\ClientApp.csproj",
+      "projectUniqueName": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\ClientApp\\ClientApp.csproj",
       "projectName": "ClientApp",
-      "projectPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\C#\\Practice\\ClientApp\\ClientApp.csproj",
+      "projectPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\ClientApp\\ClientApp.csproj",
       "packagesPath": "C:\\Users\\minhp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\C#\\Practice\\ClientApp\\obj\\",
+      "outputPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\ClientApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
