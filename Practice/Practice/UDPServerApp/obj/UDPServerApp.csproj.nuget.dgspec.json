@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\UDPServerApp\\UDPServerApp.csproj": {}
+    "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\PRN222\\Practice\\Practice\\UDPServerApp\\UDPServerApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\UDPServerApp\\UDPServerApp.csproj": {
+    "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\PRN222\\Practice\\Practice\\UDPServerApp\\UDPServerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\UDPServerApp\\UDPServerApp.csproj",
+        "projectUniqueName": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\PRN222\\Practice\\Practice\\UDPServerApp\\UDPServerApp.csproj",
         "projectName": "UDPServerApp",
-        "projectPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\UDPServerApp\\UDPServerApp.csproj",
+        "projectPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\PRN222\\Practice\\Practice\\UDPServerApp\\UDPServerApp.csproj",
         "packagesPath": "C:\\Users\\minhp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\UDPServerApp\\obj\\",
+        "outputPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\PRN222\\Practice\\Practice\\UDPServerApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"

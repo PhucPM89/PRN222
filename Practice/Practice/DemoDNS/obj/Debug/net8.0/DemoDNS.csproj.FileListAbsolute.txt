@@ -1,0 +1,15 @@
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\bin\Debug\net8.0\DemoDNS.exe
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\bin\Debug\net8.0\DemoDNS.deps.json
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\bin\Debug\net8.0\DemoDNS.runtimeconfig.json
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\bin\Debug\net8.0\DemoDNS.dll
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\bin\Debug\net8.0\DemoDNS.pdb
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\obj\Debug\net8.0\DemoDNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\obj\Debug\net8.0\DemoDNS.AssemblyInfoInputs.cache
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\obj\Debug\net8.0\DemoDNS.AssemblyInfo.cs
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\obj\Debug\net8.0\DemoDNS.csproj.CoreCompileInputs.cache
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\obj\Debug\net8.0\DemoDNS.sourcelink.json
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\obj\Debug\net8.0\DemoDNS.dll
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\obj\Debug\net8.0\refint\DemoDNS.dll
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\obj\Debug\net8.0\DemoDNS.pdb
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\obj\Debug\net8.0\DemoDNS.genruntimeconfig.cache
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoDNS\obj\Debug\net8.0\ref\DemoDNS.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\ServerApp\\ServerApp.csproj": {}
+    "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\PRN222\\Practice\\Practice\\ServerApp\\ServerApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\ServerApp\\ServerApp.csproj": {
+    "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\PRN222\\Practice\\Practice\\ServerApp\\ServerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\ServerApp\\ServerApp.csproj",
+        "projectUniqueName": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\PRN222\\Practice\\Practice\\ServerApp\\ServerApp.csproj",
         "projectName": "ServerApp",
-        "projectPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\ServerApp\\ServerApp.csproj",
+        "projectPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\PRN222\\Practice\\Practice\\ServerApp\\ServerApp.csproj",
         "packagesPath": "C:\\Users\\minhp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\Practice\\ServerApp\\obj\\",
+        "outputPath": "C:\\Users\\minhp\\OneDrive\\Desktop\\PRN222\\PRN222\\Practice\\Practice\\ServerApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"

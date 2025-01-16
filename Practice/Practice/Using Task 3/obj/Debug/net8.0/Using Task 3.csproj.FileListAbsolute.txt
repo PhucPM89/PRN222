@@ -1,0 +1,15 @@
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\bin\Debug\net8.0\Using Task 3.exe
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\bin\Debug\net8.0\Using Task 3.deps.json
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\bin\Debug\net8.0\Using Task 3.runtimeconfig.json
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\bin\Debug\net8.0\Using Task 3.dll
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\bin\Debug\net8.0\Using Task 3.pdb
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\obj\Debug\net8.0\Using Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\obj\Debug\net8.0\Using Task 3.AssemblyInfoInputs.cache
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\obj\Debug\net8.0\Using Task 3.AssemblyInfo.cs
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\obj\Debug\net8.0\Using Task 3.csproj.CoreCompileInputs.cache
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\obj\Debug\net8.0\Using Task 3.sourcelink.json
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\obj\Debug\net8.0\Using Task 3.dll
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\obj\Debug\net8.0\refint\Using Task 3.dll
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\obj\Debug\net8.0\Using Task 3.pdb
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\obj\Debug\net8.0\Using Task 3.genruntimeconfig.cache
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\Using Task 3\obj\Debug\net8.0\ref\Using Task 3.dll

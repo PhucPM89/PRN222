@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FetchDataUsingHttpClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc0a9fefbae0e46cc4eae5e913bcdb539c130557")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+827cb070dc703de138c9fc438321fe1cd9ac78cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("FetchDataUsingHttpClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FetchDataUsingHttpClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

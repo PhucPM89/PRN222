@@ -1,0 +1,15 @@
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\bin\Debug\net8.0\WebRequest & WebResponse Demo.exe
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\bin\Debug\net8.0\WebRequest & WebResponse Demo.deps.json
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\bin\Debug\net8.0\WebRequest & WebResponse Demo.runtimeconfig.json
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\bin\Debug\net8.0\WebRequest & WebResponse Demo.dll
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\bin\Debug\net8.0\WebRequest & WebResponse Demo.pdb
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\obj\Debug\net8.0\WebRequest & WebResponse Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\obj\Debug\net8.0\WebRequest & WebResponse Demo.AssemblyInfoInputs.cache
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\obj\Debug\net8.0\WebRequest & WebResponse Demo.AssemblyInfo.cs
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\obj\Debug\net8.0\WebRequest & WebResponse Demo.csproj.CoreCompileInputs.cache
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\obj\Debug\net8.0\WebRequest & WebResponse Demo.sourcelink.json
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\obj\Debug\net8.0\WebRequest & WebResponse Demo.dll
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\obj\Debug\net8.0\refint\WebRequest & WebResponse Demo.dll
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\obj\Debug\net8.0\WebRequest & WebResponse Demo.pdb
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\obj\Debug\net8.0\WebRequest & WebResponse Demo.genruntimeconfig.cache
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\WebRequest & WebResponse Demo\obj\Debug\net8.0\ref\WebRequest & WebResponse Demo.dll

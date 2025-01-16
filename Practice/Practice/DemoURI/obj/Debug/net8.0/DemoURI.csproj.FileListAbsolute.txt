@@ -1,0 +1,15 @@
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\bin\Debug\net8.0\DemoURI.exe
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\bin\Debug\net8.0\DemoURI.deps.json
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\bin\Debug\net8.0\DemoURI.runtimeconfig.json
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\bin\Debug\net8.0\DemoURI.dll
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\bin\Debug\net8.0\DemoURI.pdb
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\obj\Debug\net8.0\DemoURI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\obj\Debug\net8.0\DemoURI.AssemblyInfoInputs.cache
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\obj\Debug\net8.0\DemoURI.AssemblyInfo.cs
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\obj\Debug\net8.0\DemoURI.csproj.CoreCompileInputs.cache
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\obj\Debug\net8.0\DemoURI.sourcelink.json
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\obj\Debug\net8.0\DemoURI.dll
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\obj\Debug\net8.0\refint\DemoURI.dll
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\obj\Debug\net8.0\DemoURI.pdb
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\obj\Debug\net8.0\DemoURI.genruntimeconfig.cache
+C:\Users\minhp\OneDrive\Desktop\PRN222\PRN222\Practice\Practice\DemoURI\obj\Debug\net8.0\ref\DemoURI.dll
